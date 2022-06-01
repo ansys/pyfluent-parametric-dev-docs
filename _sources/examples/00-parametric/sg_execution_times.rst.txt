@@ -1,0 +1,16 @@
+
+:orphan:
+
+.. _sphx_glr_examples_00-parametric_sg_execution_times:
+
+Computation times
+=================
+**09:50.269** total execution time for **examples_00-parametric** files:
+
++--------------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_00-parametric_parametric_static_mixer_1.py` (``parametric_static_mixer_1.py``) | 05:51.436 | 0.0 MB |
++--------------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_00-parametric_parametric_static_mixer_3.py` (``parametric_static_mixer_3.py``) | 03:13.140 | 0.0 MB |
++--------------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_00-parametric_parametric_static_mixer_2.py` (``parametric_static_mixer_2.py``) | 00:45.693 | 0.0 MB |
++--------------------------------------------------------------------------------------------------------+-----------+--------+
