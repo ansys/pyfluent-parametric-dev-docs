@@ -98,7 +98,7 @@ Read the previously saved project - static_mixer_study.flprj
     Fast-loading "/ansys_inc/v222/fluent/fluent22.2.0/addons/afd/lib/hdfio.bin"
     Done.
 
-    Reading from fbb32dcd407c:"/home/runner/.local/share/ansys_fluent_core/examples/static_mixer_study.cffdb/Static_Mixer_main-1-Solve/Static_Mixer_main-1.cas.h5" in NODE0 mode ...
+    Reading from cf1a2263ea79:"/home/runner/.local/share/ansys_fluent_core/examples/static_mixer_study.cffdb/Static_Mixer_main-1-Solve/Static_Mixer_main-1.cas.h5" in NODE0 mode ...
       Reading mesh ...
            22771 cells,     1 cell zone  ...
               22771 polyhedra cells,  zone id: 97
@@ -246,7 +246,7 @@ Archive the current project
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  45.768 seconds)
+   **Total running time of the script:** ( 0 minutes  54.334 seconds)
 
 
 .. _sphx_glr_download_examples_00-parametric_parametric_static_mixer_2.py:
