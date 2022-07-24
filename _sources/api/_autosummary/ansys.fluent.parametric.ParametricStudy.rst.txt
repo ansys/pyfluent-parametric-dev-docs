@@ -81,9 +81,6 @@
       ParametricStudy.current_design_point
       
       
-      ParametricStudy.current_study_name
-      
-      
       ParametricStudy.is_current
       
    
